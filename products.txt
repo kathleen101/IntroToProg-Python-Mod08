@@ -1,0 +1,5 @@
+Turkey,30.0
+Ham,20.0
+Salad,3.0
+Corn,2.0
+Cookies,3.0
