@@ -9,7 +9,7 @@
 # ------------------------------------------------------------------------ #
 
 # Data -------------------------------------------------------------------- #
-strFileName = "C:\_Classes\_PythonClass\Assignment8\products.txt"
+strFileName = "products.txt"
 lstOfProductObjects = []
 
 class Product:
